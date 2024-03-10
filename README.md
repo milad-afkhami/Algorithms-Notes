@@ -17,3 +17,5 @@
 ## [08- More Complex Algorithms & How To Solve Code Problems](./08-%20More%20Complex%20Algorithms%20&%20How%20To%20Solve%20Code%20Problems)
 
 ## [10- Roundup & Next Steps](./10-%20Roundup%20&%20Next%20Steps)
+
+## [ZTM Cheat Sheet](./ztm-cheat-sheet.pdf)
